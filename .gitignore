@@ -1,0 +1,11 @@
+# OS
+.DS_Store
+# Data / outputs (not part of the skill)
+*.ab1
+*.zip
+*.xlsx
+*.xls
+manifest.json
+*-definition.xlsx
+*-ab1.zip
+*-report.md
